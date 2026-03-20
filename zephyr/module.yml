@@ -1,1 +1,4 @@
 name: zmk-keyboard-stainless_dongle
+name: Helix
+type: shield
+url: https://https://github.com/einboglova/stainless-dongle
