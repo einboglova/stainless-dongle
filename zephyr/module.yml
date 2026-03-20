@@ -1,4 +1,3 @@
 /build:
   settings: 
-  name: zmk-keyboard-stainless_dongle
     board_root: .
