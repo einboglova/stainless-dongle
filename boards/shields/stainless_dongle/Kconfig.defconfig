@@ -2,7 +2,7 @@ if STAINLESS_DONGLE
 
 # Max 16 characters in keyboard name
 config ZMK_KEYBOARD_NAME
-   default "Stainless Dongle"
+   default "stainless_dongle"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
