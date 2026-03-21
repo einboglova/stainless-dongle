@@ -2,3 +2,4 @@
 build:
   cmake: .
   kconfig: Kconfig
+  name: stainless-dongle
