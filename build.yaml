@@ -30,5 +30,5 @@ include:
     shield: helix_right nice_view_adapter nice_view
     cmake-args: -DCONFIG_ZMK_SPLIT=y -DCONFIG_ZMK_SPLIT_ROLE_CENTRAL=n
 #reset
-  - board: nice_nano_v2
-    shield: settings_reset
+#  - board: nice_nano_v2
+#    shield: settings_reset
