@@ -1,5 +1,4 @@
 #include <dt-bindings/zmk/matrix_transform.h>
-#include <layouts/helix.dtsi>
 
 &physical_layout0 {
     transform = <&keymap_transform_0>;
