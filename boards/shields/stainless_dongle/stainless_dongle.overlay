@@ -1,4 +1,4 @@
-#include <layouts/helix.dtsi>
+#include <helix.dtsi>
 
 &keymap_transform_0 {
     transform = <&default_transform>;
